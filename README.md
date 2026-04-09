@@ -20,7 +20,7 @@ cd [레포이름]
 ```
 예시:
 ```
-git clone https://github.com/organization/project.git
+git clone https://github.com/ComputerVision-MBD/seon-creator.git
 cd project
 ```
 작업 후 업로드하기
